@@ -84,5 +84,55 @@ if (a % 3== 0):
 else:
   print("nao e multiplo")
 
-  
+15) a= float(input("digite um numero: "))
+if (10 <= a):
+ if (a<=20):
+   print ("dentro")
+else:
+   print ("fora")
+
+16) a= input("digite um valor: "))
+print("tipo:", typer(valor))
+try:
+ a=float (valor)
+ print("quadrado:", n**2)
+excerpt:
+ print("nao e numerico")
+
+17) idade = int(input("digite a idade: "))
+if(idade < 18):
+  print("menor de idade")
+elif(idade <= 59):
+  print("adulto")
+else:
+  print("idoso")
+
+18) a= int(imput("digite um numero: "))
+if (a == 0):
+  print("neutro")
+ elif (a % 2 == 0 ):
+  if (a > 0):
+    print("par positivo")
+  else:
+    print("par negativo")
+else:
+ if ( a > 0):
+   print ("impar positivo")
+ else:
+   print ("impar negativo")
+
+19)a = float(input("digite o primeiro numero: "))
+   b = float(input("digite o segundo numero: "))
+   if (a==b):
+     print("sao iguais")
+   else:
+     print("sao diferentes")
+
+
+20) a= float(input(digite um valor: "))
+if ( 0 <= a):
+  if( a <=100:)
+    print(" dentro do intervalo")
+else:
+    print("fora do inntervalo:",a)
    

@@ -1,4 +1,4 @@
-# atividade-joanacelle
+# atividade-joanacelle - aula 5
 1) a = int(imput("digite um número inteiro: "))
 if (a >=0)
   print ("positivo")

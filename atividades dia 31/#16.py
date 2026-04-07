@@ -1,8 +1,3 @@
-#16
-a= input("digite um valor: "))
-print("tipo:", typer(valor))
-try:
- a=float (valor)
- print("quadrado:", n**2)
-excerpt:
- print("nao e numerico")
+#16 Leia um valor e: Mostre o tipo; Se for numérico (após conversão) → mostre o quadrado.
+valor = input("digite algo ou um numero: ")
+numerico = true

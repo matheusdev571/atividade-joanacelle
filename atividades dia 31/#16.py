@@ -1,3 +1,8 @@
-#16 Leia um valor e: Mostre o tipo; Se for numérico (após conversão) → mostre o quadrado.
-valor = input("digite algo ou um numero: ")
-numerico = true
+valor = input("digite um valor: ")
+if valor (inteiro and decimal positivo)
+   numero = float(valor)
+   print("tipo:numerico")
+   print("quadrado:", numero **2)
+else: 
+    print("Tipo: nao numerico")
+  
